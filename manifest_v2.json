@@ -6,10 +6,12 @@
     "description": "AI 助手 是一款运行在小米手环 9 Pro 上的 AI 对话客户端，基于 Xiaomi Vela 快应用框架开发。连接任意兼容 OpenAI 协议的 API，即可在手环上与云端 AI 进行多轮对话。",
     "preview": [
       "media/Shell++_framed_9pro_black_2_1786936638395_20260817111124#2.png",
-      "media/Shell++_framed_9pro_black_1_1786936641594_20260817111222#3.png"
+      "media/Shell++_framed_9pro_black_1_1786936641594_20260817111222#3.png",
+      "media/Shell++_framed_9pro_black_2_1787193892418_20260820103521#5.png",
+      "media/Shell++_framed_9pro_black_1_1787193889939_20260820103807#6.png"
     ],
     "icon": "media/1786936203632.png",
-    "cover": "media/1787195341761.png",
+    "cover": "media/1787239292006.png",
     "author": [
       {
         "name": "regles",
