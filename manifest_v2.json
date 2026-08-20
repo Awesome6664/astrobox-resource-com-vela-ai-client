@@ -9,7 +9,7 @@
       "media/Shell++_framed_9pro_black_1_1786936641594_20260817111222#3.png"
     ],
     "icon": "media/1786936203632.png",
-    "cover": "media/1787037029647.png",
+    "cover": "media/1787195341761.png",
     "author": [
       {
         "name": "regles",
@@ -22,6 +22,11 @@
       "title": "米坛帖子",
       "url": "https://www.bandbbs.cn/resources/7424/",
       "icon": "AirplaneTilt"
+    },
+    {
+      "title": "推荐配合使用",
+      "url": "https://abox.run/open?source=resv2&id=io.github.mcxcc303.dsband.band&provider=OfficialV2",
+      "icon": "AlignCenterHorizontal"
     }
   ],
   "downloads": {
